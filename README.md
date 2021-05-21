@@ -1,0 +1,1 @@
+# gs-uw-agile-manifesto
